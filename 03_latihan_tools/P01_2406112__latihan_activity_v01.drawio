@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="i_fZzV8chiJJblqBF3gB">
+    <mxGraphModel dx="691" dy="832" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-LqQhEHPoMtsc7ZagM1x-21" edge="1" parent="1" source="-LqQhEHPoMtsc7ZagM1x-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-LqQhEHPoMtsc7ZagM1x-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-LqQhEHPoMtsc7ZagM1x-18" parent="1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="355" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="-LqQhEHPoMtsc7ZagM1x-19" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="355" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="-LqQhEHPoMtsc7ZagM1x-23" edge="1" parent="1" source="-LqQhEHPoMtsc7ZagM1x-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-LqQhEHPoMtsc7ZagM1x-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-LqQhEHPoMtsc7ZagM1x-20" parent="1" style="whiteSpace=wrap;html=1;" value="buku daftar peralatan" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-LqQhEHPoMtsc7ZagM1x-24" edge="1" parent="1" source="-LqQhEHPoMtsc7ZagM1x-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-LqQhEHPoMtsc7ZagM1x-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-LqQhEHPoMtsc7ZagM1x-22" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="lihat informasi ketersediaan" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
