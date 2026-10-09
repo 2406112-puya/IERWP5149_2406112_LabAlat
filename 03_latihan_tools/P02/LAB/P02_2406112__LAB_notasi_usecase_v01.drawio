@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="sLUfO_0kL_Ppd4TGnRT1">
+    <mxGraphModel dx="1414" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tCm45uhlXDoMugshCAnQ-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=250;height=80;" value="&#xa;Sistem Informasi Peminjaman dan Pengembalian Peralatan Laboratorium &#xa;Kampus&#xa;&#xa;" vertex="1">
+          <mxGeometry height="610" width="440" x="120" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tCm45uhlXDoMugshCAnQ-8" parent="tCm45uhlXDoMugshCAnQ-1" style="ellipse;html=1;whiteSpace=wrap;" value="lihat ketersediaan peralatan" vertex="1">
+          <mxGeometry height="60" width="140" x="30" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tCm45uhlXDoMugshCAnQ-11" parent="tCm45uhlXDoMugshCAnQ-1" style="ellipse;html=1;whiteSpace=wrap;" value="kelola data peralatan" vertex="1">
+          <mxGeometry height="60" width="140" x="260" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tCm45uhlXDoMugshCAnQ-12" edge="1" parent="1" source="tCm45uhlXDoMugshCAnQ-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="tCm45uhlXDoMugshCAnQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCm45uhlXDoMugshCAnQ-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="tCm45uhlXDoMugshCAnQ-13" edge="1" parent="1" source="tCm45uhlXDoMugshCAnQ-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="tCm45uhlXDoMugshCAnQ-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCm45uhlXDoMugshCAnQ-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="petugas laboratorium" vertex="1">
+          <mxGeometry height="60" width="30" x="650" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
