@@ -1,12 +1,12 @@
-ID artefak           : 01
-Judul                : Sistem Informasi Peminjaman dan Pengembalian Peralatan Laboratorium Kampus
-Peretemuan           : Pertama
-Sumber skenario      : modul
-Jenis/status         : latihan
-Kakas                : drawio
-Pembuat              : 2406112
-Versi dan tanggal    : v01, 02-10-2026
-Asumsi/pertanyan     : -
-Pemeriksaan          : -
-Riwayat revisi       : -
+ID artefak         : LAB-P02-UC 
+Judul              : Latihan notasi fungsi laboratorium 
+Pertemuan          : 02 
+Sumber kebutuhan   : LAB-R01; LAB-R02 
+Jenis/status       : Use case diagram / LATIHAN NOTASI 
+Kakas              : DRAW.IO 
+Pembuat            : ayu patmawati_2406112
+Versi dan tanggal  : v01 / [tanggal pengerjaan] 
+Asumsi             : Hak akses sesuai; autentikasi di luar latihan 
+Pemeriksaan        : [hasil review] 
+Riwayat revisi     : [perubahan yang benar-benar dilakukan] 
 
